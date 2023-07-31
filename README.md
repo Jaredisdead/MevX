@@ -4,6 +4,10 @@
 
 By JaredisDead
 
+The purpose of this is to give everyone the opportunity to run their own mev. Alot of people promise things but never deliver. This is the alpha launch of this platform. Beta will be coming in a few days which will include an updated version which will have 2% revenue share for token holders. As a team we are tired of the false promises and will continue to develop this platform. Happy Mevving.
+
+$MevX
+
 ***MEV, or Miner Extractable Value, is a term used in the context of blockchain technology and cryptocurrencies that describes the potential profit a miner can extract from certain transactions or actions within the blockchain.***
 
 ***MevBot is an effective tool for working with blockchain, operating 24/7. Its task is to scan the transaction pool and quickly respond to changes, buying before transactions and selling after, in order to generate profit.***

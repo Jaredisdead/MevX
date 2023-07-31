@@ -4,7 +4,7 @@
 
 By JaredisDead
 
-The purpose of this is to give everyone the opportunity to run their own mev. Alot of people promise things but never deliver. This is the alpha launch of this platform. Beta will be coming in a few days which will include an updated version which will have 2% revenue share which will drop 8/6 for token holders. As a team we are tired of the false promises and will continue to develop this platform. Happy Mevving.
+The purpose of this is to give everyone the opportunity to run their own mev. Alot of people promise things but never deliver. This is the alpha launch of this platform. Beta will be coming in a few days which will include an updated version which will have 2% revenue share which will be released exclusively for token holders. As a team we are tired of the false promises and will continue to develop this platform. Happy Mevving.
 
 $MevX
 
